@@ -9,5 +9,8 @@
         <module name="pigture" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pigture" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
